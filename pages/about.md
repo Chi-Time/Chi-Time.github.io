@@ -8,7 +8,13 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A Games Designer and Developer studying at University in Southampton. 
+
+I enjoy videogames and the interactive medium it brings to the world which allows us to engage in deeper ways. As a process, I enjoy learning and interacting with new things and I tend to have quite a wide variety of interests from making music and 3d art/animation to reading and writing.
+
+Games design and Games Programming are areas that have always greatly interested me and I've been doing them since the age of 17. The creativity of coming up with various ideas and understanding how to make them work for a user and then going onto implementing them and seeing them come to life and give enjoyment to people is a great experience that I love to create and it takes up a great deal of my time.
+
+Other than that? I just enjoy playing games and doing various hobbies and interests and helping others online with their issues.
 
 <div class="row">
 {% include skills.html title="Programming Skills" source=site.data.programming-skills %}
