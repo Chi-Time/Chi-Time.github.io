@@ -1,5 +1,5 @@
 ---
-title: How to undo your git failure?
+title: HOW DO ARTICLE POSTS!?
 tags: [External Post, Git]
 style: fill
 color: warning
