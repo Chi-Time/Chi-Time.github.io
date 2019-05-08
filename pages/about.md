@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
+Hi, I'm **{{ site.author.name }}**,<br>
 A Games Designer and Developer studying at University in Southampton. 
 
 I enjoy videogames and the interactive medium it brings to the world which allows us to engage in deeper ways. As a process, I enjoy learning and interacting with new things and I tend to have quite a wide variety of interests from making music and 3d art/animation to reading and writing.

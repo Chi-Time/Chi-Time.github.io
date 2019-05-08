@@ -1,11 +1,11 @@
 - name: 3D Modelling
-  percentage: 75
-  color: info
+  percentage: `
+  color: success
 
 - name: Concept Art
-  percentage: 35
+  percentage: `
   color: success
 
 - name: Animation
-  percentage: 20
-  color: 
+  percentage: `
+  color: success
