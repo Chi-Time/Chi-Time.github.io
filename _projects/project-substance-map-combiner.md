@@ -1,7 +1,7 @@
 ---
 name: Substance Map Combiner
 tools: [C#, Winforms]
-image: {{ site.baseurl }}assets/images/Substance Map Combiner Project.jpg
+image: https://chi-time.github.io/assets/images/Substance-Map-Combiner-Project.jpg
 description: A small program made to combine multiple substance exports into a single texture map.
 ---
 
