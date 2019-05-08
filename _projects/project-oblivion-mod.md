@@ -13,5 +13,3 @@ Martynas Rekstys - Content Designer
 James Johnson - Level Designer
 
 VA Team:
-
-
