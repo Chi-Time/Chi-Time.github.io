@@ -6,6 +6,6 @@
   percentage: 35
   color: success
 
--name: Animation
+- name: Animation
   percentage: 20
   color: 
