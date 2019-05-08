@@ -3,7 +3,6 @@ name: Oblivion Mod - The Curious Case of the Cabbage
 tools: [Modding, Level Design, Dialouge Design, Quest Design]
 image: https://www.infotyke.com/wp-content/uploads/2018/02/web-development-service-infotyke.png
 description: A small demo made for the
-external_url: https://www.google.com
 ---
 
 Credits: 

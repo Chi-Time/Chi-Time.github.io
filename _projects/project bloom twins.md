@@ -1,12 +1,19 @@
 ---
 name: Bloom Twins - RPGMaker Demo
-tools: [JS, RPGMaker, Musician, Designer, Programming Team Lead]
+tools: [JS, RPGMaker, Musician, Designer, Implementation Team Lead]
 image: https://img.itch.zone/aW1nLzIwMzk4NjgucG5n/347x500/ysjrLr.png
-description: An RPGMaker game demo for a small project made for a University team unit.
+description: An RPGMaker game demo for a small University team unit project.
 ---
 
 # Bloom Twins - RPGMaker Demo
 
-RPGMaker Game is a game made in RPGMaker!
+Bloom Twins is a small RPGMaker game demo made over the course fo several weeks for a University Unit in which we focused on and made use of the Agile workflow.
+For the project we decided upon making a small slice of a possible game which would cover an intro and a questing system. 
 
 <iframe frameborder="0" src="https://itch.io/embed/410289?bg_color=ffffff&amp;fg_color=222222&amp;link_color=323331&amp;border_color=585858" width="552" height="167"></iframe>
+
+My role in this project was split amongst many areas as I found myself helping various people out with their tasks across various areas but my main role was that of being the implementation team lead as well as Scrum Master for the Implementation team. 
+
+During my time on these duties the design team had many setbacks and I would often in my spare time go and help them out with design tasks and eventually found myself developing a good portion of the intro quest and dialogue with another designer who needed help. Along with this, I found during the later portions of the project when development slowed with a lot of free time and so I spent it by creating the musical score for the demo for the town's theme, dungeon theme and boss theme.
+
+The project was a great experience and I had a lot of fun and learnt a lot about team work in a current development methodology. I also gained a greater insight into the development process of a game and helped hone my skills in quest development, programming in another engine and level design.
