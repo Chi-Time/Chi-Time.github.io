@@ -16,6 +16,9 @@ Games design and Games Programming are areas that have always greatly interested
 
 Other than that? I just enjoy playing games and doing various hobbies and interests and helping others online with their issues.
 
+### Contact Me
+---
+
 Email: [james_aaron_johnson@outlook.com](mailto:james_aaron_johnson@outlook.com)
 
 <div class="row">

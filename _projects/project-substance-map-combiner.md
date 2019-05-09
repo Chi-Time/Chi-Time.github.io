@@ -5,6 +5,8 @@ image: https://chi-time.github.io/assets/images/Substance-Map-Combiner-Project.j
 description: A small application made to combine multiple substance exports into a single texture map.
 ---
 
+![](https://chi-time.github.io/assets/images/Substance-Map-Combiner-Project.jpg)
+
 Substance Map Combiner
 =======================
 
