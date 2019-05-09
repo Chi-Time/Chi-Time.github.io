@@ -10,7 +10,7 @@ Substance Map Combiner
 
 Substance Map Combiner is a small application I made to help speed mine and several other artists I know workflows.
 
-It's made in winforms using C#. After prototpying it with my own image manipulation on bitmaps I ended up using a library called ImageProcessor as it was far faster then my own implementation and has little size cost. The application helped me learn a great deal about creating front-end GUI's for users and has helped me in terms of developing game's UI and interactions as well. It's also helped me figure out how to help artists speed up their workflows by making tooling for them.
+It's made in winforms using C#. After prototpying it with my own image manipulation on bitmaps I ended up using a library called ImageProcessor as it was far faster then my own implementation and has little size cost. The application helped me learn a great deal about creating front-end GUI's for users and how to make things simpler and abstract information so that users can access and do what they need without clutter.
 
 ## What Does it Do?
 ---
