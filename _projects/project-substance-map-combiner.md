@@ -8,7 +8,7 @@ description: A small application made to combine multiple substance exports into
 Substance Map Combiner
 =======================
 
-![](https://chi-time.github.io/assets/images/Substance-Map-Combiner-Project.jpg)
+![](https://chi-time.github.io/assets/images/Substance-Map-Combiner-Overview.gif)
 
 Substance Map Combiner is a small application I made to help speed mine and several other artists I know workflows.
 
