@@ -1,5 +1,5 @@
 ---
-name: Oblivion Mod - The Curious Case of the Cabbage
+name: The Curious Case of the Cabbage - Oblivion Mod 
 tools: [Modding, Level Design, Dialogue Design, Quest Design]
 image: https://chi-time.github.io/assets/images/oblivion-mod-project.jpg
 description: A multiple ending quest mod for Elder Scrolls IV Oblivion with custom characters and voice acting.
@@ -27,12 +27,12 @@ James Johnson - Level Designer
 
 **VA Team:**
 
-Fridna: _Ash Kells_ - [coldnightowl@gmail.com](mailto:coldnightowl@gmail.com)
+Fridna: _Ash Kells_ | [coldnightowl@gmail.com](mailto:coldnightowl@gmail.com)
 
-Jo'avi: _Andreas Somville_ - [sonbiru@hotmail.com](mailto:sonbiru@hotmail.com)
+Jo'avi: _Andreas Somville_ | [sonbiru@hotmail.com](mailto:sonbiru@hotmail.com)
 
-Tulei: _Cody Rock_ - [codyrockvo@gmail.com](codyrockvo@gmail.com) | [Cody Rock's Website](www.codyrockvoiceover.com)
+Tulei: _Cody Rock_ | [codyrockvo@gmail.com](codyrockvo@gmail.com) | [Cody Rock's Website](www.codyrockvoiceover.com)
 
-Delannel: _Jack Chohawno_ - [jackchohawno@googlemail.com](jackchohawno@googlemail.com)
+Delannel: _Jack Chohawno_ | [jackchohawno@googlemail.com](jackchohawno@googlemail.com)
 
-Cabbo: _Paul Hikari_ - [paul.hikari@yahoo.com](mailto:paul.hikari@yahoo.com)
+Cabbo: _Paul Hikari_ | [paul.hikari@yahoo.com](mailto:paul.hikari@yahoo.com)
