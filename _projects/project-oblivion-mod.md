@@ -14,7 +14,7 @@ For the project, my team and I decided on making up a small questline which woul
 
 If during the middle of the quest the player chooses to kill an important character then the rest of them will respond in turn about that information and the quest will be marked as complete with a note of that more could be done. This goes for a vast number of routes we made for it.
 
-Credits: 
+Credits:
 
 Development Team:
 Scott Hardy - Product Manager
@@ -22,3 +22,9 @@ Martynas Rekstys - Content Designer
 James Johnson - Level Designer
 
 VA Team:
+
+Fridna: _Ash Kells_ - [coldnightowl@gmail.com](mailto:coldnightowl@gmail.com)
+Jo'avi: _Andreas Somville_ - [sonbiru@hotmail.com](mailto:sonbiru@hotmail.com)
+Tulei: _Cody Rock_ - [codyrockvo@gmail.com](codyrockvo@gmail.com) [Cody Rock Website](www.codyrockvoiceover.com)
+Delannel: _Jack Chohawno_ - [jackchohawno@googlemail.com](jackchohawno@googlemail.com)
+Cabbo: _Paul Hikari_ - [paul.hikari@yahoo.com](mailto:paul.hikari@yahoo.com)
