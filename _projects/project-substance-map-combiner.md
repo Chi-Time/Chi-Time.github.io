@@ -18,7 +18,7 @@ It's made in winforms using C#. After prototpying it with my own image manipulat
 ---
 The application works by combining the various output texture sets from Substance Painter into one large texture map. It was made for those who use **material ID's** to split their objects into multiple sub-materials to then paint them inside of Substance Painter. 
 
-After finishing Substance Painter exports these with transparency as their various texture set parts and it can be cumbersome to overlay them in photoshop. The application simply requires the source folder of the texture sets and where to place them when combined and it will it overlay them all into one texture map of their relevant types/parameters: _base_color, metallic, roughness etc._
-The application also gives the ability to decide what image type to export them as, what background color to give each map to fill the transparent sections and also what order to overlay them in if some things have a higher bleed dilation than others.
+After finishing Substance Painter exports these with transparency as their various texture set parts and it can be cumbersome to overlay them in photoshop. The application simply requires the source folder of the texture sets and where to place them when combined and it will it overlay them all into one texture map of their relevant channels: _base_color, metallic, roughness etc._
+The application also gives the ability to decide what image type to export them as, what background color to give each map to fill the transparent sections and also what order to overlay them in if some things have a higher bleed/dilation than others.
 
 _For more information on the application head to the repo: [Substance Map Combiner](https://github.com/Chi-Time/Substance_Map_Combiner/tree/dev)_

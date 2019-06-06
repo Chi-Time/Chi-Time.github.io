@@ -28,7 +28,6 @@ Martynas Rekstys - Content Designer
 
 James Johnson - Level Designer
 
-
 **VA Team:**
 
 Fridna: _Ash Kells_ - [coldnightowl@gmail.com](mailto:coldnightowl@gmail.com)
