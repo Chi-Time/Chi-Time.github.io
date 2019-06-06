@@ -9,4 +9,8 @@ description: A single-player level, designed and prototyped for a 3rd person sho
 Subway Level Design
 ===================
 
-<iframe frameborder="0" src="https://artstn.co/p/4bkPJn" width="552" height="167"></iframe>
+A prototype level design made in Unity for a digital prototyping unit at Southampton Solent University with the premise of the game being that of a 3rd person cover based shooter.
+
+The level design was sketched and it's flow made beforehand on paper and then mocked up in UE4 before being finally made in Unity using pro-builder with imported prototype assets.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I9IfO9lWEPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
